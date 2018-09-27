@@ -11,9 +11,13 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+BYTONICS
+Leonel F. Benitez
+Oseriemen Ivbaze
+Saahil Karnik
+Dale Franks
+Justin Lepiten
+GSU/CSC3210
 
 - Bulleted
 - List
